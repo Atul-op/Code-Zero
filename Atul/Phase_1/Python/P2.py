@@ -1,0 +1,11 @@
+# a = 56
+# b = 3
+a = int(input("Enter first number : "))
+b = int(input("Enter second number : "))
+print("value of",a,"+",b,"=",a+b)
+print("value of",a,"-",b,"=",a-b)
+print("value of",a,"*",b,"=",a*b)
+print("value of",a,"/",b,"=",a/b)
+print("value of",a,"//",b,"=",a//b)
+print("value of",a,"**",b,"=",a**b)
+print("value of",a,"%",b,"=",a%b)
